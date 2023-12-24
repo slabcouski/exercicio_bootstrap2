@@ -4,11 +4,11 @@
     box-sizing: border-box;
 }
 
-.navbar-expand-lg a{
+.navbar-brand a{
     font-family: 'Afacad', sans-serif;
     font-size: 2rem;
 }
-.navbar-expand-lg strong{
+.navbar-brand strong{
     font-family: 'Dancing Script', cursive;
     font-size: 2rem;
 }
