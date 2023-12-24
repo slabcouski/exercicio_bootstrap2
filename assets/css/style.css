@@ -3,3 +3,10 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+.navbar-expand-lg a{
+    font-family: 'Afacad', sans-serif;
+}
+.navbar-expand-lg span{
+    font-family: 'Dancing Script', cursive;
+}
