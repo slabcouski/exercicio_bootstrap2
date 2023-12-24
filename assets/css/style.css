@@ -6,7 +6,9 @@
 
 .navbar-expand-lg a{
     font-family: 'Afacad', sans-serif;
+    font-size: 2rem;
 }
-.navbar-expand-lg span{
+.navbar-expand-lg strong{
     font-family: 'Dancing Script', cursive;
+    font-size: 2rem;
 }
