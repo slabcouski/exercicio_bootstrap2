@@ -51,3 +51,7 @@ main .custom-shape{
 .card img{ 
     height: 256px;
 }
+
+.card-body strong{
+    font-family: 'Dancing Script', cursive;
+}
