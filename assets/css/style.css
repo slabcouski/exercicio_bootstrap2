@@ -42,5 +42,5 @@ main .custom-shape{
     height: 0;
     position: fixed;
     width: 100%;
-    overflow: none;
+    overflow: none !important;
 }
