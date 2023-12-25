@@ -39,6 +39,9 @@ body{
 main .custom-shape{
     transform: rotate(180deg);
     height: 0;
-    position: fixed;
+    position: absolute;
     width: 100%;
+}
+.row{
+    background-color: #fff;
 }
