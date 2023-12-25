@@ -12,3 +12,13 @@
     font-family: 'Dancing Script', cursive;
     font-size: 2rem;
 }
+.wave-navbar{
+position: absolute;
+width: 100%;
+height: 36px;
+background-image: url(https://assets.website-files.com/5f8777f…/5f87b87…_wave_menu.svg);
+background-position: 50% 50%;
+background-size: auto;
+background-repeat: repeat-x;
+background-attachment: scroll;
+}
