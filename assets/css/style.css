@@ -33,3 +33,7 @@ body{
 .custom-shape svg{
     fill: #FFF
 }
+
+.carousel-item img{
+    height: 250px;
+}
