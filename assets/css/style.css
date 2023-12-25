@@ -26,7 +26,6 @@ body{
     position: absolute;
     left: 0;
     width: 100%;
-    overflow: hidden;
     line-height: 0;
 }
 
@@ -37,7 +36,7 @@ body{
 .carousel-item img{
     height: 250px;
 }
-.custom-shape2{
+main .custom-shape{
     transform: rotate(180deg);
     height: 0;
     position: fixed;
