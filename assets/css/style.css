@@ -42,6 +42,6 @@ main .custom-shape{
     position: absolute;
     width: 100%;
 }
-.row{
+main .container{
     background-color: #fff;
 }
