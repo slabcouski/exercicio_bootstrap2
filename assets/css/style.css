@@ -12,11 +12,13 @@
     font-family: 'Dancing Script', cursive;
     font-size: 2rem;
 }
-.custom-shape-divider-top-1703518470 {
+.custom-shape {
     position: absolute;
-    top: 0;
     left: 0;
     width: 100%;
     overflow: hidden;
     line-height: 0;
+}
+.custom-shape svg{
+    fill: #FFF
 }
