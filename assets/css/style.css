@@ -37,10 +37,9 @@ body{
 .carousel-item img{
     height: 250px;
 }
-main .custom-shape{
+.custom-shape2{
     transform: rotate(180deg);
     height: 0;
     position: fixed;
     width: 100%;
-    overflow: none !important;
 }
