@@ -4,14 +4,24 @@
     box-sizing: border-box;
 }
 
+body{
+    background-color: antiquewhite;
+}
+
+.navbar{
+    background-color: #fff;
+}
+
 .navbar-expand-lg .navbar-brand{
     font-family: 'Afacad', sans-serif;
     font-size: 2rem;
 }
+
 .navbar-expand-lg strong{
     font-family: 'Dancing Script', cursive;
     font-size: 2rem;
 }
+
 .custom-shape {
     position: absolute;
     left: 0;
@@ -19,6 +29,7 @@
     overflow: hidden;
     line-height: 0;
 }
+
 .custom-shape svg{
     fill: #FFF
 }
