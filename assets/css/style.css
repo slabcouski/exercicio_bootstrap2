@@ -34,7 +34,7 @@ body{
 }
 
 .carousel-item img{
-    height: 40rem;
+    height: 20rem;
 }
 main .custom-shape{
     transform: rotate(180deg);
