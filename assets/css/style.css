@@ -59,3 +59,18 @@ main .custom-shape{
 .menu h4{
     font-family: 'Dancing Script', cursive;
 }
+
+footer .custom-shape{
+    transform: rotate(180deg);
+    height: 0;
+    position: absolute;
+    width: 100%;
+}
+
+footer{
+    background-color: #1F1B1A;
+}
+
+footer .custom-shape svg{
+    fill: #1F1B1A;
+}
