@@ -75,6 +75,16 @@ footer{
     color: #fff;
 }
 
+footer .navbar-brand{
+    font-family: 'Afacad', sans-serif;
+    font-size: 2rem;
+}
+
+footer .navbar-brand strong{
+    font-family: 'Dancing Script', cursive;
+    font-size: 2rem;
+}
+
 footer .custom-shape svg{
     fill: #1F1B1A;
 }
