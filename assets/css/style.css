@@ -88,3 +88,8 @@ footer .navbar-brand strong{
 footer .custom-shape svg{
     fill: #1F1B1A;
 }
+
+footer p{
+    margin-top: 0;
+    margin-bottom: 0;
+}
