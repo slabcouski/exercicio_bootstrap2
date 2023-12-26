@@ -37,6 +37,9 @@ main{
     background-color: #fff;
 }
 
+main .row{
+    padding-bottom: 15rem;
+}
 main .custom-shape{
     transform: rotate(180deg);
     height: 0;
